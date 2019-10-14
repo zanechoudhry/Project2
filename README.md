@@ -1,5 +1,3 @@
-# Project2
-Csci211
 Create a class to store the video descriptions. Call this class Video and put it in the files video.h and video.cpp. All the member variables in class Video must be private.
 Put the main() function in the file main.cpp
 Allow the user to specify up to 100 videos. If more than 100 videos are specified, print the message “Too many videos, giving up.” and a newline (endl) to “Standard Error” (using cerr) and terminate the program.
